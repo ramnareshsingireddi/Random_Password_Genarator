@@ -1,0 +1,2 @@
+create a flask appilicaton random paswword genarator 
+url shortern using flask
